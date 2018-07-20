@@ -2,7 +2,7 @@
 
 This repository is [React.js](https://facebook.github.io/react/) tutorial repository using Facebook official boilerplate [create-react-app][create-react-app-github]
 
-> 한국어 튜토리얼은 [블로그][blog]를 참고하세요
+> 한국어 튜토리얼은 [블로그 - [React.js] Create react app 을 이용한 React.js 튜토리얼(State, Props)](https://qvil.github.io/react.js/reactjs-tutorial/)를 참고하세요
 
 ## Prerequisites
 
