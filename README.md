@@ -1,6 +1,6 @@
 # [React-tutorial](https://github.com/qvil/react-tutorial)
 
-## Sorry, This tutorial was deprecated, But instead you can check [react-playground](https://github.com/qvil/react-playground)
+> It is Updated! Include hooks! Check it out! 🚀
 
 This repository is [React.js](https://facebook.github.io/react/) tutorial repository using Facebook official boilerplate [create-react-app][create-react-app-github]
 
@@ -8,9 +8,7 @@ This repository is [React.js](https://facebook.github.io/react/) tutorial reposi
 
 ## Prerequisites
 
-1.  Install [Node.js](https://nodejs.org/)
-1.  Install [create-react-app][create-react-app-github]
-    1.  `npm install -g create-react-app`
+1.  [Node.js](https://nodejs.org/) >= 8.x (Recommended the latest version)
 
 ## Install
 
@@ -18,7 +16,7 @@ This repository is [React.js](https://facebook.github.io/react/) tutorial reposi
 npm install
 ```
 
-## Run
+## Start
 
 ```sh
 npm start
@@ -29,5 +27,3 @@ npm start
 MIT
 
 [create-react-app-github]: (https://github.com/facebookincubator/create-react-app#getting-started)
-[gaearon-github]: https://github.com/gaearon
-[blog]: https://qvil.github.io
